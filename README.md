@@ -24,32 +24,18 @@
 
 #### 🔍 Black Friday Sales & Heart Disease Data Visualization
 **Tech:** Python, Pandas, Seaborn, Matplotlib  
-- Performed deep EDA and preprocessing
-- Built insights dashboards for market segmentation and health risk analysis  
 🔗 [GitHub Repo](https://github.com/Yogeshkharb111/Black_friday_salesAndHeart_Disease_Visulization)
-
----
 
 #### 📊 Machine Learning Model Comparison Dashboard
 **Tech:** R, Shiny, ggplot2, caret  
-- Built Shiny app to compare Supervised vs Unsupervised models  
-- Used Student & Mall datasets for regression, clustering & classification  
 🔗 [GitHub Repo](https://github.com/Yogeshkharb111/Machine-Learning-and-Student-Performance-and-Clustering-Mall-Customers-Analysis)
-
----
 
 #### 🦠 COVID-19 Dashboard (India)
 **Tech:** Tableau  
-- Created a storytelling-style interactive dashboard  
-- Added smooth navigation using Sheet & URL actions  
 🔗 [GitHub Repo](https://github.com/Yogeshkharb111/COVID-19-in-India-Dashboard-Analysis-using-Tableau)
-
----
 
 #### 📺 YouTube Scraper
 **Tech:** Python, BeautifulSoup, Selenium  
-- Extracted titles, views, likes, comments, etc. from YouTube dynamically  
-- Output in JSON and CSV for future data analysis  
 🔗 [GitHub Repo](https://github.com/Yogeshkharb111/Youtube_Scraper)
 
 ---
@@ -63,12 +49,12 @@
 
 ### 🛠️ Skills & Tools
 
-**Languages**: Python, R, Java, C  
-**Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Excel  
-**Visualization**: Tableau, Streamlit, ggplot2  
-**ML Frameworks**: scikit-learn, TensorFlow, Keras, caret  
-**Web Scraping**: Selenium, BeautifulSoup  
-**Other**: Git, JSON, APIs, Statistical Analysis
+**Languages:** Python, R, Java, C  
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Excel  
+**Visualization:** Tableau, Streamlit, ggplot2  
+**ML Frameworks:** scikit-learn, TensorFlow, Keras, caret  
+**Web Scraping:** Selenium, BeautifulSoup  
+**Other:** Git, JSON, APIs, Statistical Analysis
 
 ---
 
@@ -88,3 +74,7 @@
 
 If you're into data science, dashboards, or just geeking out over Python automation — I'd love to connect!
 
+<p align="center">
+  <a href="https://instagram.com/yogeshchaudhary111" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/yogesh_kharb" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+</p>
